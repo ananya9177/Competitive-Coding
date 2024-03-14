@@ -21,7 +21,9 @@ Output: [18,6,6,2,10,1,3]
 - We insert the greatest common divisor of 6 and 10 = 2 between the 2nd and the 3rd nodes.
 - We insert the greatest common divisor of 10 and 3 = 1 between the 3rd and the 4th nodes.
 There are no more adjacent nodes, so we return the linked list.
-Example 2:
+
+
+### Example 2:
 ![ex2_copy1](https://github.com/ananya9177/PAT-CP/assets/151428838/8b68eb01-9c13-4b5e-b3eb-33e4645b7573)
 
 ```
